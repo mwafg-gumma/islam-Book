@@ -25,7 +25,7 @@ return (
                     <p className="md:text-lg text-gray-500 text-right py-2">
                         الرقية الشرعية أسباب شرعية للعلاج والاستشفاء والشفاء من الله سبحانه وتعالى ولا يملك أحد من الخلق ضراً ولا نفعاً ، ولذلك يجب اللجوء إلى الله سبحانه وتعالى دون سائر الخلق<span className="text-orange-500 text-2lg">*</span>
                     </p>
-                    <h1 className="py-2 text-amber-500  md:text-lg font-bold text-right py-2 tracking-wide">
+                    <h1 className=" text-amber-500  md:text-lg font-bold text-right py-2 tracking-wide">
                       إرشادات عامة يجب أن تُراعى عند الرقية الشرعية <span className="text-orange-500 text-2lg">*</span>
                       </h1>
                       <p className="md:text-lg text-gray-500 text-right py-2">
