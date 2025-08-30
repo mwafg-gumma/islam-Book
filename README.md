@@ -1,5 +1,4 @@
 
-
 # React Supplications (أذكار المسلم)
 
 ## Project Description
@@ -40,7 +39,7 @@ It provides a comprehensive collection of daily Islamic supplications (Azkar), p
 
 ```sh
 git clone https://github.com/your-mwafg-gumma/islam-book.git
-cd your-repo-name
+
 ```
 
 ### Install Dependencies
@@ -127,16 +126,9 @@ All rights reserved © React Supplications 2025
 
 ## Contact
 
-For questions or suggestions, please use the "Contact Us" page on the website or open an [Issue](https://github.com/your-username/your-repo-name/issues) on GitHub.
+For questions or suggestions, please use the "Contact Us" page on the website or open an [Issue](https://github.com/mwafg-gumma/islam-book/issues) on GitHub.
 
 
-
- 
- 
- 
- 
- 
- 
  React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
