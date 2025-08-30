@@ -30,7 +30,7 @@ import Mosque from "./components/LinksBox/Mosque"
 const router = createBrowserRouter (
   createRoutesFromElements (
     <Route  path="/" element={<MainLayout  />}>
-    <Route index element={<HomePage /> } />
+    <Route path="/islam-Book" element={<HomePage /> } />
     <Route path="/one" element={<One /> } />
     <Route path="/second" element={<Second /> } />
     <Route path="/third" element={<Third /> } />
@@ -53,9 +53,6 @@ const router = createBrowserRouter (
     <Route path="/أذكارالمسجد" element={<Mosque/> } />
     </Route>
   ),
-  {
-    basename : "/islam-Book"
-  }
 );
 
 const App = () => {
