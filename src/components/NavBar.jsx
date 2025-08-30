@@ -75,7 +75,7 @@ const NavBar = () => {
                         </li>
                         <li className="m-2">
                             <NavLink
-                                to="/"
+                                to="/islam-Book"
                                 className="text-gray-600 hover:text-gray-900 px-2 py-2 font-bold"
                                 onClick={() => setMenuOpen(false)}
                             >
